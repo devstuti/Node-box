@@ -1,5 +1,5 @@
 var name = "Stuti Kadiya"
-import {calSum, var1} from "./sum.js"; // Corrected import statement
+const {calSum, var1} = require("./calculate") // Corrected import statement
 var a= 10;
 var b= 20;
 
